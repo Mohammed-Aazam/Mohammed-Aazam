@@ -14,8 +14,8 @@ _Backend Engineer • Cloud • Production Debugging_
 <!-- Quick contact / badges -->
 <p align="left">
   <a href="mailto:tadipatrimohammedaazam@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-tadipatrimohammedaazam@gmail.com-006bed?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-ff69b4?style=flat&logo=adobeacrobat&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/tmohammedaazam/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/tmohammedaazam/"><img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-ff69b4?style=flat&logo=adobeacrobat&logoColor=white"></a>
   <img alt="Top Langs" src="https://img.shields.io/badge/Top--Langs-Java--Python--JS-blue?style=flat">
 </p>
 
