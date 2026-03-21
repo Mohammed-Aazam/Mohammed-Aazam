@@ -31,7 +31,6 @@ I build and maintain backend systems, resolve production incidents, and automate
 ---
 
 ## Featured Projects
-> Click the titles to open repositories — include clear README, architecture diagram, run instructions, and screenshots for each pinned project.
 
 ### 🔹 Eye-Gaze-Estimation (Deep Learning)  
 **Description:** Deep learning pipeline to predict eye gaze from facial images.  
