@@ -59,7 +59,7 @@ I build and maintain backend systems, resolve production incidents, and automate
 
 ## Quick Links
 - 📄 Resume: `https://your-resume-link`
-- 💬 LinkedIn: `https://linkedin.com/in/YOUR_LINKEDIN`
+- 💬 LinkedIn: `https://linkedin.com/in/tmohammedaazam`
 - ✉️ Email: `tadipatrimohammedaazam@gmail.com`
 
 ---
