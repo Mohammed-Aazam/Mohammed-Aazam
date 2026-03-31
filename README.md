@@ -24,7 +24,7 @@ _Backend Engineer • Cloud • Production Debugging_
 ## About
 I build and maintain backend systems, resolve production incidents, and automate workflows to improve team efficiency. I enjoy working on distributed systems, cloud infra, and applying ML where it adds value. Currently pursuing my MS in Computer Science and open to backend / platform / systems roles.
 
-- ✅ 4+ years professional experience (backend, prod support, automation)  
+- ✅ 5+ years professional experience (backend, prod support, automation)  
 - ✅ Strong debugging & runtime troubleshooting skills (logs, tracing, RCA)  
 - ✅ Comfortable with Java, Python, JavaScript, SQL, Linux, Git/GitHub workflows
 
